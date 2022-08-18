@@ -9,7 +9,7 @@ I'm Osman Rasooli from Afghanistan, and I do web development and designing. I re
 
 
 ### Technology Stack
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,ts,js,jquery,react,nodejs,mongodb,expressjs,nextjs,php,postgres,docker)]
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,ts,jquery,react,nodejs,mongodb,expressjs,nextjs,php,postgres,docker)]
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OsmanRasooli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/OsmanRasooli/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/OsmanRasooli)  
