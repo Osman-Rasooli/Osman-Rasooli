@@ -35,6 +35,7 @@ I'm Osman Rasooli from Afghanistan, and I do web development and designing. I re
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Osman-Rasooli&show_icons=true) 
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=osman-rasooli&" alt="osman-rasooli" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osman-rasooli&show_icons=true&locale=en&layout=compact" alt="osman-rasooli" /> 
 
 
