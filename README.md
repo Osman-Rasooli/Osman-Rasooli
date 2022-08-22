@@ -8,6 +8,8 @@
 I'm Osman Rasooli from Afghanistan, and I do web development and designing. I really enjoy learning languages and frameworks like React.  I also enjoy UI, UX and designing. I have been doing web development since 3 years.
 
 
+
+
 - 🔭 I’m currently working on a Bug Tracker project. 
 - 🌱 I’m currently learning GraphQL, GSAP, Three.js. 
 - 💬 Ask me about ReactJS, ExpressJS, Postgres, NodeJS,  MongoDB 
