@@ -32,10 +32,9 @@ I'm Osman Rasooli from Afghanistan, and I do web development and designing. I re
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Osman-Rasooli&show_icons=true) 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osman-rasooli&show_icons=true&theme=prussian)
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Osman-Rasooli&" alt="osman-rasooli" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osman-Rasooli&show_icons=true&locale=en&layout=compact" alt="osman-rasooli" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osman-Rasooli&show_icons=true&locale=en&layout=compact&theme=prussian" alt="osman-rasooli" /> 
 
 
