@@ -17,6 +17,7 @@ I'm Osman Rasooli from Afghanistan, and I do web development and designing. I re
 - :point_right:	 My Portfolio - [Osman Rasooli](https://osman-rasooli.github.io/new_portfolio/)
 - ⚡ Fun fact: My productive hour starts at 10PM. 
 
+<p align="right"><img src="https://www.codewars.com/users/Osman-Rasooli/badges/large" /><p/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/osmanrasooli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osmanrasooli" height="30" width="40" /></a>
