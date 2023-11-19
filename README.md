@@ -26,7 +26,7 @@ I'm Osman Rasooli from Afghanistan, and I do web development and designing. I re
 
 
 ### Technology Stack
-![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,ts,jquery,react,nodejs,mongodb,expressjs,php,postgres) <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
+![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,ts,jquery,react,nodejs,mongodb,expressjs,php,postgres)
 
 
 
