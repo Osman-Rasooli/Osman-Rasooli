@@ -1,6 +1,7 @@
 
 <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500" alt="Coder" align="right">
 
+
 ### Hi there 👋, I'm Osman Rasooli
 #### Full-Stack Web Developer, UI/UX Designer
 
@@ -27,9 +28,7 @@ I'm Mohammad Osman Rasooli, and I do web development and designing. I really enj
 ### Technology Stack
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,ts,jquery,react,nodejs,mongodb,expressjs,php,postgres)
 
-<br>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Osman-Rasooli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/OsmanRasooli/)  
+<br>  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
@@ -38,6 +37,6 @@ I'm Mohammad Osman Rasooli, and I do web development and designing. I really enj
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osman-rasooli&show_icons=true&theme=prussian)
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Osman-Rasooli&" alt="osman-rasooli" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osman-Rasooli&show_icons=true&locale=en&layout=compact&theme=prussian" alt="osman-rasooli" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osman-Rasooli&show_icons=true&locale=en&layout=compact&theme=prussian" alt="osman-rasooli"/> 
 
 
