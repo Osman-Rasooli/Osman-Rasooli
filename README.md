@@ -3,20 +3,19 @@
 
 
 ### Hi there 👋, I'm Osman Rasooli
-#### Full-Stack Web Developer, UI/UX Designer
+#### Frontend Developer, UI/UX Designer
 
 
-I'm Mohammad Osman Rasooli, and I do web development and designing. I really enjoy learning languages and frameworks like React.  I also enjoy UI, UX and designing. I have been doing web development since 3 years.
+I'm Mohammad Osman Rasooli, and I do web development and designing. I really enjoy learning languages and frameworks like React. 
+Passionate learner with a penchant for problem-solving 🌟
 
 
-
-
-- 🔭 I’m currently working on a Bug Tracker project. 
+- 🔭 I’m currently working on a BugTracker project (Bugbuddy). 
 - 🌱 I’m currently learning GraphQL, GSAP, Three.js. 
-- 💬 Ask me about ReactJS, ExpressJS, Postgres, NodeJS, MongoDB 
+- 💬 Ask me about ReactJS, ExpressJS, NodeJS, MongoDB 
 - 📫 How to reach me **mohammad.osmanrasooli1973@gmail.com**
 - :point_right:	 My Portfolio - [Osman Rasooli](https://osman-rasooli.github.io/new_portfolio/)
-- ⚡ Fun fact: My productive hour starts at 10PM. 
+- ⚡ Fun Fact: I often find myself debugging code in my dreams, with syntax errors and semicolons floating around like little digital fairies 🧚‍♂️💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
