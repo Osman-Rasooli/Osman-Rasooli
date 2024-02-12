@@ -1,13 +1,10 @@
 
 
-
-
 ## Hi there 👋, I'm ***Osman Rasooli***
-#### Frontend Developer, UI/UX Designer
+#### Frontend Developer | UI/UX Designer | Passionate Learner
 
 
-I'm Mohammad Osman Rasooli, and I do web development and designing. I really enjoy learning languages and frameworks like React. 
-Passionate learner with a penchant for problem-solving 🌟
+I'm Mohammad Osman Rasooli, a dedicated web developer and designer who finds joy in crafting seamless user experiences. My expertise lies in languages and frameworks like React, where I continually expand my skills and knowledge.
 
 
 - 🔭 I’m currently working on a BugTracker project (Bugbuddy). 
