@@ -1,8 +1,8 @@
 
-<img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500" alt="Coder" align="right">
 
 
-### Hi there 👋, I'm Osman Rasooli
+
+## Hi there 👋, I'm ***Osman Rasooli***
 #### Frontend Developer, UI/UX Designer
 
 
