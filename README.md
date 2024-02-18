@@ -8,7 +8,7 @@ I'm Mohammad Osman Rasooli, a dedicated web developer and designer who finds joy
 
 
 - 🔭 I’m currently working on a BugTracker project (Bugbuddy). 
-- 🌱 I’m currently learning GraphQL, GSAP, Three.js. 
+- 🌱 I’m currently learning NextJS, TS and Framer Motion. 
 - 💬 Ask me about ReactJS, ExpressJS, NodeJS, MongoDB 
 - 📫 How to reach me **mohammad.osmanrasooli1973@gmail.com**
 - :point_right:	 My Portfolio - [Osman Rasooli](https://osman-rasooli.github.io/new_portfolio/)
